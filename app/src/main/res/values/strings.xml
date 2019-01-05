@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="eid">EMAIL-ID</string>
+    <string name="pwd">PASSWORD</string>
+    <string name="Error_msg">Cannot find the profile matching the Entered Details</string>
+</resources>
